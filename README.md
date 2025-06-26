@@ -24,6 +24,7 @@ Upload the first-contribution's gif and result ie. upload your homework
 - 一级目录为你的年级
 - 二级目录为你的名字
 - 你应该在你的年级文件夹下，新建一个你的名字的文件夹，并在其中放入你的 PR 成功截图，以及对应的庆祝 gif
+
 例如：
 ![](./2023/XingGuofu/image.png)
 ![gif](https://camo.githubusercontent.com/a56df1372a3c886fb5eef592d26578b81bb0200b8dde8e62c1d398a6e6d5d5a6/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f4977415a36647676766154746449385344352f67697068792e676966)
