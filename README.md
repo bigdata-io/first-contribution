@@ -1,7 +1,7 @@
 # first-contribution
 Upload the first-contribution's gif and result ie. upload your homework
 ## 项目用途
-:该项目仓库用于存放大数据智能团队成员完成第一个 PR 后的小练习后的成功结果（截图以及表情包）
+:该项目仓库用于存放大数据智能团队成员完成第一个 PR 后的小练习的成功结果（截图以及表情包）
 ## 上传步骤
 和 [First-contribution](https://github.com/firstcontributions/first-contributions) 流程一致：
 - Fork 项目
